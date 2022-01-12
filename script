@@ -1,0 +1,1 @@
+repeat wait() getgenv().__W_GH_HJ_h_6t_aA_ = "GNUYm8QzHub3CUPpPZD8vANaL8W337yS8WuvRz6ekPmC5nb3ckNnAWB8xXtJjdAMs2pVhYWa3uXMEMgCp8zQrGyj5yXt2SgdTRCy" until getgenv().__W_GH_HJ_h_6t_aA_ == "GNUYm8QzHub3CUPpPZD8vANaL8W337yS8WuvRz6ekPmC5nb3ckNnAWB8xXtJjdAMs2pVhYWa3uXMEMgCp8zQrGyj5yXt2SgdTRCy"
